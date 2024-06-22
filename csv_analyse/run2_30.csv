@@ -1,0 +1,1099 @@
+optimal,31, 357ms
+,,
+optimal,25, 379ms
+,,
+optimal,27, 316ms
+,,
+optimal,34, 314ms
+,,
+optimal,30, 307ms
+,,
+optimal,27, 796ms
+,,
+optimal,31, 425ms
+,,
+optimal,35, 243ms
+,,
+optimal,26, 252ms
+,,
+optimal,32, 251ms
+,,
+optimal,26, 213ms
+,,
+optimal,32, 2s
+,,
+optimal,28, 208ms
+,,
+optimal,24, 222ms
+,,
+optimal,36, 234ms
+,,
+optimal,33, 223ms
+,,
+optimal,25, 221ms
+,,
+optimal,22, 265ms
+,,
+optimal,31, 230ms
+,,
+optimal,38, 236ms
+,,
+optimal,35, 213ms
+,,
+optimal,35, 215ms
+,,
+optimal,28, 229ms
+,,
+optimal,31, 214ms
+,,
+optimal,35, 204ms
+,,
+optimal,35, 213ms
+,,
+optimal,33, 213ms
+,,
+optimal,32, 230ms
+,,
+optimal,30, 212ms
+,,
+optimal,26, 205ms
+,,
+optimal,29, 246ms
+,,
+optimal,28, 892ms
+,,
+optimal,31, 229ms
+,,
+optimal,34, 228ms
+,,
+optimal,29, 1s
+,,
+optimal,25, 232ms
+,,
+optimal,34, 229ms
+,,
+optimal,27, 628ms
+,,
+optimal,28, 275ms
+,,
+optimal,22, 222ms
+,,
+optimal,37, 343ms
+,,
+satisfiable,42, 31s
+,,
+optimal,40, 26s
+,,
+satisfiable,41, 31s
+,,
+satisfiable,42, 30s
+,,
+optimal,38, 28s
+,,
+optimal,38, 10s
+,,
+optimal,41, 12s
+,,
+optimal,28, 872ms
+,,
+satisfiable,31, 31s
+,,
+optimal,37, 225ms
+,,
+optimal,29, 230ms
+,,
+optimal,32, 496ms
+,,
+optimal,30, 2s
+,,
+optimal,34, 619ms
+,,
+optimal,26, 590ms
+,,
+optimal,29, 277ms
+,,
+optimal,34, 223ms
+,,
+optimal,41, 308ms
+,,
+optimal,31, 232ms
+,,
+optimal,40, 224ms
+,,
+optimal,38, 229ms
+,,
+optimal,34, 775ms
+,,
+optimal,33, 209ms
+,,
+optimal,30, 233ms
+,,
+optimal,24, 442ms
+,,
+optimal,22, 237ms
+,,
+optimal,27, 220ms
+,,
+optimal,23, 232ms
+,,
+optimal,28, 245ms
+,,
+optimal,27, 220ms
+,,
+optimal,32, 207ms
+,,
+optimal,41, 2s
+,,
+optimal,23, 317ms
+,,
+optimal,19, 237ms
+,,
+optimal,30, 330ms
+,,
+optimal,30, 245ms
+,,
+optimal,22, 202ms
+,,
+optimal,25, 216ms
+,,
+optimal,24, 251ms
+,,
+optimal,34, 282ms
+,,
+optimal,26, 234ms
+,,
+optimal,26, 300ms
+,,
+optimal,33, 272ms
+,,
+optimal,39, 1s
+,,
+optimal,29, 238ms
+,,
+optimal,33, 251ms
+,,
+optimal,32, 230ms
+,,
+optimal,31, 240ms
+,,
+optimal,34, 271ms
+,,
+optimal,28, 215ms
+,,
+optimal,33, 783ms
+,,
+optimal,33, 219ms
+,,
+optimal,35, 224ms
+,,
+optimal,31, 230ms
+,,
+optimal,21, 231ms
+,,
+optimal,25, 226ms
+,,
+optimal,35, 2s
+,,
+optimal,18, 3s
+,,
+optimal,25, 229ms
+,,
+optimal,35, 218ms
+,,
+optimal,29, 244ms
+,,
+optimal,21, 238ms
+,,
+optimal,31, 227ms
+,,
+optimal,30, 214ms
+,,
+optimal,27, 208ms
+,,
+optimal,24, 220ms
+,,
+optimal,36, 213ms
+,,
+optimal,34, 2s
+,,
+optimal,25, 233ms
+,,
+optimal,30, 222ms
+,,
+optimal,28, 248ms
+,,
+optimal,25, 1s
+,,
+optimal,27, 538ms
+,,
+optimal,35, 223ms
+,,
+optimal,29, 218ms
+,,
+optimal,24, 224ms
+,,
+optimal,30, 206ms
+,,
+optimal,33, 221ms
+,,
+optimal,26, 1s
+,,
+optimal,38, 4s
+,,
+optimal,45, 4s
+,,
+satisfiable,34, 31s
+,,
+satisfiable,36, 30s
+,,
+optimal,37, 2s
+,,
+optimal,37, 16s
+,,
+optimal,33, 4s
+,,
+satisfiable,36, 31s
+,,
+optimal,44, 2s
+,,
+optimal,32, 3s
+,,
+optimal,26, 213ms
+,,
+optimal,23, 944ms
+,,
+optimal,36, 303ms
+,,
+optimal,25, 302ms
+,,
+optimal,26, 233ms
+,,
+optimal,30, 497ms
+,,
+optimal,31, 225ms
+,,
+optimal,38, 231ms
+,,
+optimal,33, 293ms
+,,
+optimal,34, 248ms
+,,
+optimal,25, 819ms
+,,
+optimal,21, 236ms
+,,
+optimal,33, 198ms
+,,
+optimal,23, 237ms
+,,
+optimal,24, 233ms
+,,
+optimal,32, 221ms
+,,
+optimal,27, 253ms
+,,
+optimal,24, 204ms
+,,
+optimal,23, 209ms
+,,
+optimal,26, 216ms
+,,
+optimal,27, 246ms
+,,
+optimal,37, 223ms
+,,
+optimal,31, 220ms
+,,
+optimal,21, 2s
+,,
+optimal,29, 394ms
+,,
+optimal,37, 223ms
+,,
+optimal,30, 208ms
+,,
+optimal,29, 244ms
+,,
+optimal,38, 205ms
+,,
+optimal,31, 210ms
+,,
+optimal,34, 239ms
+,,
+optimal,27, 2s
+,,
+optimal,32, 385ms
+,,
+optimal,24, 237ms
+,,
+optimal,30, 306ms
+,,
+optimal,27, 665ms
+,,
+optimal,32, 246ms
+,,
+optimal,33, 276ms
+,,
+optimal,33, 228ms
+,,
+optimal,51, 299ms
+,,
+optimal,21, 659ms
+,,
+optimal,22, 217ms
+,,
+optimal,22, 203ms
+,,
+optimal,42, 217ms
+,,
+optimal,34, 226ms
+,,
+optimal,22, 215ms
+,,
+optimal,29, 240ms
+,,
+optimal,29, 336ms
+,,
+optimal,40, 241ms
+,,
+optimal,21, 241ms
+,,
+optimal,38, 234ms
+,,
+optimal,29, 209ms
+,,
+optimal,29, 200ms
+,,
+optimal,28, 220ms
+,,
+optimal,28, 2s
+,,
+optimal,40, 220ms
+,,
+optimal,25, 216ms
+,,
+optimal,30, 214ms
+,,
+optimal,42, 202ms
+,,
+optimal,37, 215ms
+,,
+optimal,37, 218ms
+,,
+optimal,26, 202ms
+,,
+optimal,25, 208ms
+,,
+optimal,31, 227ms
+,,
+optimal,33, 220ms
+,,
+optimal,23, 219ms
+,,
+optimal,29, 224ms
+,,
+optimal,37, 227ms
+,,
+optimal,36, 219ms
+,,
+optimal,28, 1s
+,,
+optimal,46, 3s
+,,
+optimal,36, 3s
+,,
+satisfiable,35, 31s
+,,
+optimal,32, 2s
+,,
+optimal,33, 2s
+,,
+optimal,34, 6s
+,,
+optimal,42, 7s
+,,
+optimal,38, 3s
+,,
+optimal,50, 2s
+,,
+optimal,37, 4s
+,,
+optimal,36, 233ms
+,,
+optimal,19, 271ms
+,,
+optimal,30, 957ms
+,,
+optimal,29, 445ms
+,,
+optimal,35, 239ms
+,,
+optimal,30, 264ms
+,,
+optimal,41, 278ms
+,,
+optimal,27, 259ms
+,,
+optimal,28, 286ms
+,,
+optimal,36, 216ms
+,,
+optimal,25, 217ms
+,,
+optimal,20, 1s
+,,
+optimal,43, 208ms
+,,
+optimal,31, 2s
+,,
+optimal,29, 217ms
+,,
+optimal,43, 2s
+,,
+optimal,32, 221ms
+,,
+optimal,45, 210ms
+,,
+optimal,26, 231ms
+,,
+optimal,33, 220ms
+,,
+optimal,31, 225ms
+,,
+optimal,29, 209ms
+,,
+optimal,32, 223ms
+,,
+optimal,28, 234ms
+,,
+optimal,27, 228ms
+,,
+optimal,29, 234ms
+,,
+optimal,29, 222ms
+,,
+optimal,36, 213ms
+,,
+optimal,29, 223ms
+,,
+optimal,22, 233ms
+,,
+optimal,47, 2s
+,,
+optimal,39, 1s
+,,
+optimal,45, 1s
+,,
+optimal,45, 495ms
+,,
+optimal,57, 688ms
+,,
+optimal,48, 697ms
+,,
+optimal,41, 2s
+,,
+optimal,45, 669ms
+,,
+optimal,39, 2s
+,,
+optimal,44, 595ms
+,,
+optimal,39, 268ms
+,,
+optimal,54, 493ms
+,,
+optimal,32, 485ms
+,,
+optimal,38, 437ms
+,,
+optimal,42, 443ms
+,,
+optimal,43, 565ms
+,,
+optimal,41, 745ms
+,,
+optimal,44, 505ms
+,,
+optimal,47, 491ms
+,,
+optimal,38, 542ms
+,,
+optimal,34, 288ms
+,,
+optimal,51, 834ms
+,,
+optimal,35, 1s
+,,
+optimal,39, 292ms
+,,
+optimal,47, 521ms
+,,
+optimal,42, 380ms
+,,
+optimal,41, 270ms
+,,
+optimal,35, 826ms
+,,
+optimal,40, 334ms
+,,
+optimal,36, 240ms
+,,
+satisfiable,55, 31s
+,,
+satisfiable,44, 31s
+,,
+satisfiable,59, 30s
+,,
+satisfiable,58, 31s
+,,
+satisfiable,54, 30s
+,,
+optimal,50, 660ms
+,,
+satisfiable,62, 31s
+,,
+satisfiable,59, 31s
+,,
+satisfiable,45, 31s
+,,
+satisfiable,61, 30s
+,,
+optimal,46, 3s
+,,
+optimal,37, 381ms
+,,
+optimal,44, 344ms
+,,
+optimal,34, 914ms
+,,
+optimal,50, 2s
+,,
+optimal,50, 5s
+,,
+optimal,36, 1s
+,,
+optimal,38, 4s
+,,
+optimal,40, 507ms
+,,
+optimal,45, 468ms
+,,
+optimal,43, 299ms
+,,
+optimal,44, 710ms
+,,
+optimal,42, 977ms
+,,
+optimal,49, 288ms
+,,
+optimal,49, 268ms
+,,
+optimal,32, 285ms
+,,
+optimal,36, 588ms
+,,
+optimal,38, 284ms
+,,
+optimal,42, 562ms
+,,
+optimal,42, 514ms
+,,
+optimal,38, 305ms
+,,
+optimal,44, 274ms
+,,
+optimal,41, 353ms
+,,
+optimal,36, 332ms
+,,
+optimal,40, 547ms
+,,
+optimal,48, 306ms
+,,
+optimal,41, 363ms
+,,
+optimal,48, 354ms
+,,
+optimal,41, 320ms
+,,
+optimal,43, 287ms
+,,
+optimal,35, 261ms
+,,
+optimal,38, 2s
+,,
+optimal,34, 708ms
+,,
+optimal,40, 313ms
+,,
+optimal,33, 299ms
+,,
+optimal,37, 597ms
+,,
+optimal,32, 641ms
+,,
+optimal,39, 490ms
+,,
+optimal,30, 629ms
+,,
+optimal,42, 243ms
+,,
+optimal,35, 262ms
+,,
+optimal,36, 275ms
+,,
+optimal,26, 950ms
+,,
+optimal,37, 237ms
+,,
+optimal,28, 243ms
+,,
+optimal,35, 324ms
+,,
+optimal,30, 258ms
+,,
+optimal,29, 340ms
+,,
+optimal,28, 309ms
+,,
+optimal,31, 418ms
+,,
+optimal,29, 276ms
+,,
+optimal,30, 244ms
+,,
+optimal,32, 358ms
+,,
+optimal,26, 293ms
+,,
+optimal,27, 314ms
+,,
+optimal,44, 215ms
+,,
+optimal,28, 288ms
+,,
+optimal,33, 233ms
+,,
+optimal,34, 308ms
+,,
+optimal,38, 241ms
+,,
+optimal,41, 263ms
+,,
+optimal,31, 235ms
+,,
+optimal,27, 320ms
+,,
+optimal,34, 711ms
+,,
+optimal,33, 252ms
+,,
+optimal,29, 355ms
+,,
+optimal,25, 409ms
+,,
+optimal,35, 244ms
+,,
+optimal,36, 247ms
+,,
+optimal,35, 205ms
+,,
+satisfiable,41, 30s
+,,
+satisfiable,44, 31s
+,,
+satisfiable,48, 31s
+,,
+satisfiable,42, 31s
+,,
+satisfiable,50, 31s
+,,
+satisfiable,43, 30s
+,,
+satisfiable,47, 30s
+,,
+satisfiable,47, 30s
+,,
+satisfiable,48, 31s
+,,
+satisfiable,45, 30s
+,,
+optimal,33, 316ms
+,,
+optimal,37, 377ms
+,,
+optimal,40, 241ms
+,,
+optimal,30, 6s
+,,
+optimal,37, 6s
+,,
+optimal,33, 521ms
+,,
+optimal,33, 1s
+,,
+optimal,43, 25s
+,,
+satisfiable,37, 31s
+,,
+optimal,40, 9s
+,,
+optimal,39, 212ms
+,,
+optimal,42, 354ms
+,,
+optimal,29, 240ms
+,,
+optimal,29, 367ms
+,,
+optimal,38, 536ms
+,,
+optimal,26, 336ms
+,,
+optimal,34, 1s
+,,
+optimal,28, 418ms
+,,
+optimal,38, 647ms
+,,
+optimal,34, 322ms
+,,
+optimal,28, 1s
+,,
+optimal,28, 306ms
+,,
+optimal,30, 487ms
+,,
+optimal,35, 288ms
+,,
+optimal,24, 315ms
+,,
+optimal,25, 264ms
+,,
+optimal,31, 245ms
+,,
+optimal,32, 348ms
+,,
+optimal,28, 363ms
+,,
+optimal,37, 302ms
+,,
+optimal,33, 581ms
+,,
+optimal,30, 734ms
+,,
+optimal,49, 276ms
+,,
+optimal,35, 283ms
+,,
+optimal,37, 245ms
+,,
+optimal,37, 233ms
+,,
+optimal,31, 1s
+,,
+optimal,36, 295ms
+,,
+optimal,34, 385ms
+,,
+optimal,33, 233ms
+,,
+optimal,28, 223ms
+,,
+optimal,30, 333ms
+,,
+optimal,37, 1s
+,,
+optimal,43, 244ms
+,,
+optimal,34, 3s
+,,
+optimal,37, 247ms
+,,
+optimal,37, 293ms
+,,
+optimal,22, 242ms
+,,
+optimal,27, 286ms
+,,
+optimal,25, 227ms
+,,
+optimal,32, 214ms
+,,
+optimal,27, 2s
+,,
+optimal,23, 234ms
+,,
+optimal,27, 331ms
+,,
+optimal,51, 238ms
+,,
+optimal,33, 320ms
+,,
+optimal,38, 216ms
+,,
+optimal,26, 244ms
+,,
+optimal,33, 245ms
+,,
+optimal,35, 220ms
+,,
+optimal,32, 231ms
+,,
+optimal,29, 242ms
+,,
+optimal,23, 251ms
+,,
+optimal,22, 222ms
+,,
+optimal,29, 243ms
+,,
+optimal,30, 219ms
+,,
+optimal,30, 241ms
+,,
+optimal,30, 232ms
+,,
+optimal,26, 236ms
+,,
+optimal,31, 237ms
+,,
+optimal,42, 24s
+,,
+optimal,37, 1s
+,,
+optimal,38, 11s
+,,
+optimal,34, 2s
+,,
+optimal,44, 17s
+,,
+satisfiable,50, 31s
+,,
+satisfiable,43, 31s
+,,
+satisfiable,38, 31s
+,,
+satisfiable,39, 31s
+,,
+satisfiable,42, 30s
+,,
+optimal,33, 741ms
+,,
+optimal,29, 7s
+,,
+optimal,28, 3s
+,,
+optimal,22, 413ms
+,,
+optimal,30, 273ms
+,,
+optimal,28, 295ms
+,,
+optimal,30, 236ms
+,,
+optimal,39, 228ms
+,,
+optimal,31, 240ms
+,,
+optimal,28, 484ms
+,,
+optimal,29, 297ms
+,,
+optimal,29, 314ms
+,,
+optimal,31, 361ms
+,,
+optimal,28, 1s
+,,
+optimal,41, 904ms
+,,
+optimal,24, 615ms
+,,
+optimal,25, 279ms
+,,
+optimal,44, 220ms
+,,
+optimal,44, 231ms
+,,
+optimal,27, 220ms
+,,
+optimal,21, 268ms
+,,
+optimal,39, 235ms
+,,
+optimal,31, 264ms
+,,
+optimal,34, 203ms
+,,
+optimal,32, 818ms
+,,
+optimal,29, 269ms
+,,
+optimal,26, 233ms
+,,
+optimal,30, 228ms
+,,
+optimal,29, 229ms
+,,
+optimal,33, 221ms
+,,
+optimal,30, 247ms
+,,
+optimal,32, 251ms
+,,
+optimal,32, 708ms
+,,
+optimal,29, 248ms
+,,
+optimal,29, 829ms
+,,
+optimal,27, 215ms
+,,
+optimal,23, 312ms
+,,
+optimal,27, 317ms
+,,
+optimal,29, 597ms
+,,
+optimal,26, 228ms
+,,
+optimal,30, 214ms
+,,
+optimal,27, 208ms
+,,
+optimal,32, 200ms
+,,
+optimal,31, 232ms
+,,
+optimal,27, 216ms
+,,
+optimal,28, 219ms
+,,
+optimal,24, 201ms
+,,
+optimal,26, 340ms
+,,
+optimal,28, 226ms
+,,
+optimal,30, 228ms
+,,
+optimal,24, 202ms
+,,
+optimal,29, 215ms
+,,
+optimal,23, 258ms
+,,
+optimal,34, 209ms
+,,
+optimal,25, 199ms
+,,
+optimal,28, 229ms
+,,
+optimal,27, 220ms
+,,
+optimal,34, 235ms
+,,
+optimal,26, 737ms
+,,
+optimal,34, 229ms
+,,
+optimal,22, 2s
+,,
+optimal,23, 224ms
+,,
+optimal,38, 212ms
+,,
+optimal,39, 234ms
+,,
+optimal,23, 220ms
+,,
+optimal,34, 204ms
+,,
+optimal,36, 279ms
+,,
+optimal,25, 980ms
+,,
+optimal,29, 208ms
+,,
+optimal,31, 231ms
+,,
+optimal,37, 1s
+,,
+optimal,41, 4s
+,,
+optimal,36, 4s
+,,
+optimal,39, 2s
+,,
+optimal,38, 12s
+,,
+optimal,39, 6s
+,,
+optimal,35, 30s
+,,
+optimal,44, 3s
+,,
+optimal,46, 2s
+,,
+optimal,44, 18s
+,,
+optimal,26, 336ms
+,,
+optimal,26, 454ms
+,,
+optimal,33, 787ms
+,,
+optimal,26, 1s
+,,
+optimal,33, 274ms
+,,
+optimal,42, 242ms
+,,
+optimal,36, 277ms
+,,
+optimal,27, 303ms
+,,
+optimal,38, 263ms
+,,
+optimal,26, 309ms
+,,
+optimal,29, 2s
+,,
+optimal,27, 207ms
+,,
+optimal,30, 233ms
+,,
+optimal,24, 209ms
+,,
+optimal,31, 211ms
+,,
+optimal,37, 211ms
+,,
+optimal,39, 227ms
+,,
+optimal,26, 210ms
+,,
+optimal,31, 217ms
+,,
+optimal,25, 212ms
+,,
+optimal,25, 258ms
+,,
+optimal,36, 244ms
+,,
+optimal,23, 225ms
+,,
+optimal,34, 233ms
+,,
+optimal,25, 253ms
+,,
+optimal,36, 1s
+,,
+optimal,29, 222ms
+,,
+optimal,34, 209ms
+,,
+optimal,23, 2s
+,,
+optimal,31, 219ms

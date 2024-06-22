@@ -1,0 +1,27 @@
+vars = 31733, values = 31261time: 226ms, objective = 63
+time: 236ms, objective = 62
+time: 242ms, objective = 60
+time: 248ms, objective = 59
+time: 254ms, objective = 58
+time: 258ms, objective = 57
+time: 262ms, objective = 56
+time: 267ms, objective = 55
+time: 271ms, objective = 54
+time: 277ms, objective = 53
+time: 282ms, objective = 52
+time: 287ms, objective = 51
+time: 291ms, objective = 50
+time: 296ms, objective = 49
+time: 299ms, objective = 48
+time: 303ms, objective = 47
+time: 330ms, objective = 46
+time: 337ms, objective = 45
+time: 345ms, objective = 44
+time: 353ms, objective = 43
+time: 357ms, objective = 42
+time: 364ms, objective = 41
+time: 373ms, objective = 40
+time: 1s, objective = 39
+time: 1s, objective = 38
+time: 6s, objective = 37
+Found optimal solution with makespan 37 at time: 19s

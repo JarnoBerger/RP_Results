@@ -1,0 +1,21 @@
+time: 226ms, objective = 235
+time: 245ms, objective = 50
+time: 254ms, objective = 49
+time: 259ms, objective = 48
+time: 263ms, objective = 47
+time: 269ms, objective = 46
+time: 273ms, objective = 45
+time: 277ms, objective = 44
+time: 282ms, objective = 43
+time: 287ms, objective = 42
+time: 291ms, objective = 41
+time: 297ms, objective = 40
+time: 301ms, objective = 39
+time: 306ms, objective = 38
+time: 312ms, objective = 37
+time: 317ms, objective = 36
+time: 325ms, objective = 35
+time: 330ms, objective = 34
+time: 336ms, objective = 33
+time: 340ms, objective = 32
+Found optimal solution with makespan 32 at time: 462ms

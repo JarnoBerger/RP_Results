@@ -1,0 +1,14 @@
+time: 219ms, objective = 85
+time: 227ms, objective = 61
+time: 232ms, objective = 60
+time: 235ms, objective = 59
+time: 238ms, objective = 58
+time: 241ms, objective = 57
+time: 249ms, objective = 56
+time: 254ms, objective = 55
+time: 279ms, objective = 54
+time: 288ms, objective = 53
+time: 293ms, objective = 52
+time: 296ms, objective = 51
+time: 431ms, objective = 50
+Found optimal solution with makespan 50 at time: 1s

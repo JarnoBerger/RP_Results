@@ -1,0 +1,14 @@
+vars = 30513, values = 30061time: 215ms, objective = 49
+time: 223ms, objective = 47
+time: 228ms, objective = 46
+time: 232ms, objective = 45
+time: 235ms, objective = 44
+time: 239ms, objective = 43
+time: 246ms, objective = 42
+time: 254ms, objective = 41
+time: 269ms, objective = 40
+time: 336ms, objective = 39
+time: 1s, objective = 38
+time: 5s, objective = 37
+time: 11s, objective = 36
+Found satisfiable solution with makespan 36 at time: 30s

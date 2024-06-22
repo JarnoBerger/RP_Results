@@ -1,0 +1,10 @@
+vars = 31245, values = 30781time: 170ms, objective = 31
+time: 178ms, objective = 30
+time: 181ms, objective = 29
+time: 184ms, objective = 28
+time: 187ms, objective = 27
+time: 189ms, objective = 24
+time: 193ms, objective = 23
+time: 195ms, objective = 22
+time: 197ms, objective = 21
+Found optimal solution with makespan 21 at time: 198ms

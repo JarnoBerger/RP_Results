@@ -1,0 +1,20 @@
+vars = 29785, values = 29341time: 159ms, objective = 57
+time: 169ms, objective = 56
+time: 175ms, objective = 55
+time: 179ms, objective = 54
+time: 184ms, objective = 51
+time: 189ms, objective = 50
+time: 192ms, objective = 49
+time: 196ms, objective = 48
+time: 199ms, objective = 46
+time: 207ms, objective = 45
+time: 211ms, objective = 44
+time: 215ms, objective = 43
+time: 255ms, objective = 42
+time: 372ms, objective = 41
+time: 407ms, objective = 40
+time: 423ms, objective = 39
+time: 812ms, objective = 38
+time: 816ms, objective = 37
+time: 10s, objective = 36
+Found satisfiable solution with makespan 36 at time: 31s

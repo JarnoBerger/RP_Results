@@ -1,0 +1,35 @@
+vars = 31245, values = 30781time: 195ms, objective = 72
+time: 205ms, objective = 70
+time: 210ms, objective = 69
+time: 215ms, objective = 67
+time: 218ms, objective = 66
+time: 222ms, objective = 65
+time: 225ms, objective = 64
+time: 229ms, objective = 63
+time: 232ms, objective = 62
+time: 235ms, objective = 61
+time: 238ms, objective = 60
+time: 241ms, objective = 59
+time: 244ms, objective = 58
+time: 247ms, objective = 57
+time: 250ms, objective = 56
+time: 253ms, objective = 55
+time: 256ms, objective = 54
+time: 259ms, objective = 53
+time: 262ms, objective = 52
+time: 265ms, objective = 51
+time: 269ms, objective = 50
+time: 272ms, objective = 49
+time: 277ms, objective = 48
+time: 281ms, objective = 44
+time: 285ms, objective = 43
+time: 289ms, objective = 42
+time: 304ms, objective = 41
+time: 307ms, objective = 40
+time: 310ms, objective = 39
+time: 316ms, objective = 38
+time: 319ms, objective = 37
+time: 322ms, objective = 36
+time: 328ms, objective = 35
+time: 442ms, objective = 34
+Found optimal solution with makespan 34 at time: 447ms

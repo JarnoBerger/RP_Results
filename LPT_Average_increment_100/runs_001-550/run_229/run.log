@@ -1,0 +1,7 @@
+vars = 30879, values = 30421time: 172ms, objective = 32
+time: 180ms, objective = 31
+time: 184ms, objective = 30
+time: 187ms, objective = 29
+time: 189ms, objective = 27
+time: 192ms, objective = 26
+Found optimal solution with makespan 26 at time: 193ms

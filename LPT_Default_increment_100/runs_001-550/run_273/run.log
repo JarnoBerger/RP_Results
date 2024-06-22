@@ -1,0 +1,32 @@
+vars = 30273, values = 29821time: 203ms, objective = 88
+time: 213ms, objective = 87
+time: 221ms, objective = 86
+time: 226ms, objective = 85
+time: 230ms, objective = 84
+time: 240ms, objective = 83
+time: 245ms, objective = 82
+time: 249ms, objective = 81
+time: 254ms, objective = 80
+time: 266ms, objective = 79
+time: 271ms, objective = 78
+time: 278ms, objective = 77
+time: 282ms, objective = 76
+time: 285ms, objective = 75
+time: 389ms, objective = 74
+time: 409ms, objective = 73
+time: 462ms, objective = 72
+time: 503ms, objective = 71
+time: 545ms, objective = 70
+time: 584ms, objective = 69
+time: 720ms, objective = 68
+time: 794ms, objective = 67
+time: 818ms, objective = 66
+time: 1s, objective = 65
+time: 1s, objective = 64
+time: 1s, objective = 63
+time: 1s, objective = 62
+time: 1s, objective = 61
+time: 2s, objective = 60
+time: 3s, objective = 59
+time: 71s, objective = 58
+Found satisfiable solution with makespan 58 at time: 100s

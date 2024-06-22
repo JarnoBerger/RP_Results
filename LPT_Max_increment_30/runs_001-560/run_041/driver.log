@@ -1,0 +1,6 @@
+name = "_j30_13_1"
+program = "pumpkin"
+file = "[../../../instances/mm_j30/j30_13_1.dzn]"
+wall_clock_time = 0.39
+system_time = 0.03
+user_time = 0.31

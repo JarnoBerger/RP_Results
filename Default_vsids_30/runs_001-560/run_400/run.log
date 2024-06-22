@@ -1,0 +1,3 @@
+time: 214ms, objective = 248
+time: 237ms, objective = 37
+Found optimal solution with makespan 37 at time: 240ms

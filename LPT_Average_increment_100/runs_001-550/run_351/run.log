@@ -1,0 +1,19 @@
+vars = 31615, values = 31141time: 167ms, objective = 59
+time: 177ms, objective = 58
+time: 182ms, objective = 56
+time: 187ms, objective = 55
+time: 191ms, objective = 54
+time: 196ms, objective = 53
+time: 200ms, objective = 52
+time: 204ms, objective = 51
+time: 207ms, objective = 50
+time: 212ms, objective = 49
+time: 218ms, objective = 48
+time: 226ms, objective = 47
+time: 897ms, objective = 46
+time: 1s, objective = 45
+time: 1s, objective = 44
+time: 2s, objective = 43
+time: 8s, objective = 42
+time: 11s, objective = 41
+Found satisfiable solution with makespan 41 at time: 100s
